@@ -1,1 +1,1 @@
-# my-courseworks
+# my-coursework
